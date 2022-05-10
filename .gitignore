@@ -1,9 +1,13 @@
+# Data files
+*.dat
+
 # History files
 .Rhistory
 .Rapp.history
 
 # Session Data files
 .RData
+.ipynb_checkpoints/
 
 # User-specific files
 .Ruserdata
