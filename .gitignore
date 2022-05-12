@@ -1,6 +1,9 @@
 # Data files
 *.dat
 
+# Images and other generated files
+figs/
+
 # History files
 .Rhistory
 .Rapp.history
