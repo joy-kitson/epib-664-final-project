@@ -1,8 +1,8 @@
 # epib-664-final-project
 
 ## Setup
-This project requires an up to date installation of the `R` programing language,
-JupyterLab, and configuring a working `R` kernel for Jupyter. Instructions
+This project requires an up to date installation of the [`R` programing language](https://www.r-project.org/),
+[JupyterLab](https://jupyter.org/), and configuring a working `R` kernel for Jupyter. Instructions
 for configuring all three can be found
 [here](https://richpauloo.github.io/2018-05-16-Installing-the-R-kernel-in-Jupyter-Lab/).
 
